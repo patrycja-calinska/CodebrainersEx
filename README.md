@@ -1,7 +1,6 @@
-# Testowanie Oprogramowania – Zadania Kursowe
+# Zadania Kursowe
 
-To repozytorium zawiera moje rozwiązania zadań z kursu **Testowanie Oprogramowania**.  
-Znajdują się tu przykłady przypadków testowych, raportów błędów (defektów), testów automatycznych oraz dokumentacja projektowa.
+To repozytorium zawiera moje rozwiązania zadań z kursu ***Tester Oprogramowania zgodnie z ISTQB (manualny + automatyzacja) - Kierunek Rozwój / Małopolski Pociąg do Kariery / Graj po zielone - kurs - kwalifikacje**.  
 
 ---
 
@@ -32,5 +31,4 @@ Celem repozytorium jest dokumentacja oraz praktyczne utrwalenie wiedzy zdobytej 
 
 ## Autor
 **Imię i nazwisko:** Patrycja Calińska  
-
 ---
