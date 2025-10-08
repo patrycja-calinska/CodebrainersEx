@@ -1,0 +1,1 @@
+{"179c0b9d54a685408a8935305cfa8c92":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"396ce85c0662a86d","status":"broken","statusDetails":"OSError: pytest: reading from stdin while output is captured!  Consider using `-s`.","time":{"start":1759251774978,"stop":1759251781877,"duration":6899}}]}}

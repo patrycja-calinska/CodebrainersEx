@@ -1,0 +1,5 @@
+Ocena dla ucznia Artur to jest 4
+Ocena dla ucznia Basia to jest 3
+Ocena dla ucznia Cezary to jest 3
+Ocena dla ucznia Daniel to jest 4
+Ocena dla ucznia Eliza to jest 3

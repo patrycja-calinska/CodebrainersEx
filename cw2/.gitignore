@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+old_programs/
+pytest_ex/
+selenium_ex/
+test_selenium_01.py
+test_selenium_02.py
